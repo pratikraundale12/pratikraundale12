@@ -29,4 +29,6 @@
 </a>
 </div>
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pratikraundale12&theme=tokyonight-duo&border_radius=5" alt="GitHub Streak" /></a><hr/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pratikraundale12&theme=tokyonight-duo&border_radius=5" alt="GitHub Streak" /></a>
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=pratikraundale12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<hr/>
