@@ -22,12 +22,11 @@
 </div>
  <hr/>
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
-<br/>,
+<br/>
 <div align="center">
    <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,aws,maven,jenkins,java,arduino,vscode,eclipse,hadoop" alt="My Skills">
 </a>
 </div>
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<hr/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pratikraundale12&theme=tokyonight-duo&border_radius=5" alt="GitHub Streak" /></a><hr/>
