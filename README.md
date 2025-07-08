@@ -42,35 +42,22 @@ spec:
 <div align="center">
 
 ### 🔧 DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,git,github,linux&theme=dark" />
 
 ### 💻 Programming & Development
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,bash" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,bash&theme=dark" />
 
 ### 🌐 Cloud Services
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white&labelColor=FF9900" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white&labelColor=569A31" />
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white&labelColor=FF9900" />
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikraundale12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikraundale12&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikraundale12&theme=tokyonight" alt="pratikraundale12" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikraundale12&theme=tokyo-night&hide_border=true" />
-</div>
 
 ---
 
@@ -114,22 +101,17 @@ Pipeline Features:
 
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
-| **DevOps** | Docker, Kubernetes, Jenkins | <img src="https://progress-bar.dev/85/?title=Expert&color=36BCF7" /> |
-| **Cloud** | AWS (EC2, S3, EKS, IAM) | <img src="https://progress-bar.dev/80/?title=Advanced&color=FF9900" /> |
-| **Programming** | C#, .NET, JavaScript | <img src="https://progress-bar.dev/75/?title=Proficient&color=239120" /> |
-| **IaC** | Terraform, Helm | <img src="https://progress-bar.dev/70/?title=Intermediate&color=623CE4" /> |
-| **Monitoring** | SonarQube, CodeGuru | <img src="https://progress-bar.dev/75/?title=Proficient&color=4E9BCD" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker" width="30"/> Docker, <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> Kubernetes, <img src="https://skillicons.dev/icons?i=jenkins" width="30"/> Jenkins | <img src="https://progress-bar.dev/85/?title=Expert&color=36BCF7" /> |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws" width="30"/> AWS (EC2, S3, EKS, IAM) | <img src="https://progress-bar.dev/80/?title=Advanced&color=FF9900" /> |
+| **Programming** | <img src="https://skillicons.dev/icons?i=cs" width="30"/> C#, <img src="https://skillicons.dev/icons?i=dotnet" width="30"/> .NET, <img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript | <img src="https://progress-bar.dev/75/?title=Proficient&color=239120" /> |
+| **IaC** | <img src="https://skillicons.dev/icons?i=terraform" width="30"/> Terraform, <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> Helm | <img src="https://progress-bar.dev/70/?title=Intermediate&color=623CE4" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git" width="30"/> Git, <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub, <img src="https://skillicons.dev/icons?i=linux" width="30"/> Linux | <img src="https://progress-bar.dev/75/?title=Proficient&color=4E9BCD" /> |
 
 </div>
 
 ---
 
 ## 🏅 Certifications & Achievements
-
-<div align="center">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" />
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" />
-</div>
 
 🎖️ **AWS Cloud Essential** - Amazon Web Services  
 🎖️ **Introduction to AWS CodeGuru** - Amazon Web Services  
@@ -158,30 +140,7 @@ Pipeline Features:
 
 ---
 
-## 💡 Current Focus
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🔍+Exploring+Advanced+Kubernetes+Patterns;🚀+Building+Scalable+Cloud+Infrastructure;🔧+Mastering+Infrastructure+as+Code;📊+Implementing+DevOps+Best+Practices;🌟+Contributing+to+Open+Source+Projects" alt="Current Focus" />
-</div>
-
-```mermaid
-graph TD
-    A[Current Goals] --> B[Advanced Kubernetes]
-    A --> C[Multi-Cloud Deployment]
-    A --> D[GitOps Implementation]
-    A --> E[Microservices Architecture]
-    
-    B --> F[Service Mesh]
-    C --> G[Hybrid Cloud Setup]
-    D --> H[ArgoCD & Flux]
-    E --> I[Container Orchestration]
-    
-    style A fill:#36BCF7,stroke:#333,stroke-width:2px
-    style B fill:#FF9900,stroke:#333,stroke-width:2px
-    style C fill:#239120,stroke:#333,stroke-width:2px
-    style D fill:#623CE4,stroke:#333,stroke-width:2px
-    style E fill:#4E9BCD,stroke:#333,stroke-width:2px
-```
 
 ---
 
@@ -202,19 +161,11 @@ graph TD
 
 ---
 
-## 📊 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikraundale12&theme=react-dark&hide_border=true&area=true" />
-</div>
 
 ---
 
-## 🎵 Spotify Playing
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&limit=5" />
-</div>
 
 ---
 
