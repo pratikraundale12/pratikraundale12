@@ -1,7 +1,7 @@
 # Pratik Raundale | DevOps & Cloud Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0366d6&width=435&lines=Infrastructure+as+Code+Specialist;Cloud+Native+Solutions;CI%2FCD+Pipelines;Containerization+Expert" alt="Professional Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0366d6&width=435&lines=Kubernetes;AWS;CI%2FCD+Pipelines;Docker+Containerization" alt="Professional Headline" />
 </div>
 
 ## Professional Summary
