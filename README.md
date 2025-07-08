@@ -1,212 +1,108 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there! I'm Pratik Raundale
-
+<!-- Animated Header with Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Kubernetes+%7C+Docker+%7C+AWS+Expert;CI%2FCD+Pipeline+Specialist;.NET+Developer+%7C+Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&width=435&lines=Hello+World!+👋;Welcome+to+my+profile!;DevOps+Enthusiast;Cloud+Explorer;.NET+Developer;Tech+Passionate" alt="Typing SVG" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=pratikraundale12&label=Profile%20views&color=0e75b6&style=flat)
+  ![GitHub Followers](https://img.shields.io/github/followers/pratikraundale12?label=Follow&style=social)
 </div>
 
+<!-- Floating Tech Icons -->
 <div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" style="margin:10px;animation: float 6s ease-in-out infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="margin:10px;animation: float 5s ease-in-out infinite;animation-delay:1s;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" style="margin:10px;animation: float 7s ease-in-out infinite;animation-delay:2s;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="margin:10px;animation: float 6.5s ease-in-out infinite;animation-delay:0.5s;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" style="margin:10px;animation: float 5.5s ease-in-out infinite;animation-delay:1.5s;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" style="margin:10px;animation: float 6s ease-in-out infinite;animation-delay:2.5s;"/>
 </div>
 
----
-
-## 🚀 About Me
-
-```yaml
-apiVersion: v1
-kind: Developer
-metadata:
-  name: Pratik Raundale
-  location: Pune, MH 411033
-  contact: +91 9359161785
-spec:
-  role: DevOps Engineer & Cloud Enthusiast
-  experience: 
-    - Junior Web Developer at Jai Electricals And Contractors
-    - 2+ years in DevOps and Cloud Technologies
-  education:
-    - BTech in Electronics & Telecommunication (CGPA: 8/10)
-    - Diploma in Electronics & Telecommunication (85.59%)
-  passion: 
-    - Automating everything possible
-    - Building scalable cloud infrastructure
-    - Continuous learning and innovation
-```
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 🔧 DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" style="animation: float 6s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" style="animation: float 6s ease-in-out infinite 0.5s;" />
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" style="animation: float 6s ease-in-out infinite 1s;" />
-  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" style="animation: float 6s ease-in-out infinite 1.5s;" />
-  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" style="animation: float 6s ease-in-out infinite 2s;" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" style="animation: float 6s ease-in-out infinite 2.5s;" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" style="animation: float 6s ease-in-out infinite 3s;" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" style="animation: float 6s ease-in-out infinite 3.5s;" />
-</p>
-
-### 💻 Programming & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" style="animation: float 6s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" style="animation: float 6s ease-in-out infinite 0.7s;" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" style="animation: float 6s ease-in-out infinite 1.4s;" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" style="animation: float 6s ease-in-out infinite 2.1s;" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" style="animation: float 6s ease-in-out infinite 2.8s;" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="animation: float 6s ease-in-out infinite 3.5s;" />
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" style="animation: float 6s ease-in-out infinite 4.2s;" />
-</p>
-
-### 🌐 Cloud Services
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" style="animation: float 6s ease-in-out infinite;" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white&labelColor=FF9900" style="animation: float 6s ease-in-out infinite 1s;" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white&labelColor=569A31" style="animation: float 6s ease-in-out infinite 2s;" />
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white&labelColor=FF9900" style="animation: float 6s ease-in-out infinite 3s;" />
-</p>
-
+<!-- CSS Animation -->
 <style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-}
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+  }
 </style>
 
-</div>
+## 🌟 About Me
 
----
+<img align="right" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> 
 
+I'm a passionate DevOps and Cloud enthusiast with hands-on experience in containerization, orchestration, and CI/CD pipelines. Currently pursuing my Bachelor's in Electronics and Telecommunication while exploring the exciting world of cloud technologies.
 
+🔭 **Currently working on:** Enhancing my Kubernetes skills  
+🌱 **Currently learning:** Advanced Terraform modules  
+👯 **Looking to collaborate on:** Open-source DevOps projects  
+💬 **Ask me about:** AWS, Docker, or CI/CD pipelines  
+⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
 
----
+## 🛠️ Technical Skills
 
-## 🏆 Featured Projects
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+</p>
 
-<div align="center">
+### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
 
-### 🌟 2-Tier WebApp Deployment
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+## 🚀 Projects
 
-```bash
-├── 🐳 Docker Containerization
-├── ☸️ Kubernetes Orchestration  
-├── 🔄 CI/CD Pipeline
-├── ☁️ AWS EKS Deployment
-└── 📊 High Availability Setup
-```
+### 2-Tier WebApp Deployment
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/pratikraundale12/2-tier-webapp-deployment)
+- Deployed Flask+MySQL app with Docker Compose
+- Automated Kubernetes cluster setup with Kubeadm
+- Migrated to AWS EKS using eksctl
+- Packaged manifests with Helm
 
-### 🔧 Jenkins CI/CD Pipeline
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+### CI/CD Pipeline for Java Web App
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/pratikraundale12/java-cicd-pipeline)
+- Automated builds with Maven
+- Configured Jenkins for CI/CD
+- Deployed to Tomcat server
+- AWS EC2 instance setup
 
-```yaml
-Pipeline Features:
-  ✅ Automated Testing
-  ✅ Code Quality Analysis
-  ✅ Build Automation
-  ✅ Deployment Automation
-```
+## 📚 Education
 
-</div>
+**JSPM's Rajarshi Shahu College of Engineering**  
+📅 Nov 2022 - June 2025  
+🎓 Bachelor of Technology in Electronics and Telecommunication  
+📊 CGPA: 8/10
 
----
+**Government Polytechnic Washim**  
+📅 June 2019 - July 2022  
+🎓 Diploma in Electronics and Telecommunication  
+📊 Percentage: 85.59%
 
-## 🎯 Skills Matrix
+## 📫 Let's Connect!
 
-<div align="center">
-
-| Category | Technologies | Proficiency |
-|----------|-------------|-------------|
-| **DevOps** | <img src="https://skillicons.dev/icons?i=docker" width="30"/> Docker, <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> Kubernetes, <img src="https://skillicons.dev/icons?i=jenkins" width="30"/> Jenkins | ⭐⭐⭐⭐⭐ Expert |
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws" width="30"/> AWS (EC2, S3, EKS, IAM) | ⭐⭐⭐⭐ Advanced |
-| **Programming** | <img src="https://skillicons.dev/icons?i=cs" width="30"/> C#, <img src="https://skillicons.dev/icons?i=dotnet" width="30"/> .NET, <img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript | ⭐⭐⭐⭐ Proficient |
-| **IaC** | <img src="https://skillicons.dev/icons?i=terraform" width="30"/> Terraform, <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> Helm | ⭐⭐⭐ Intermediate |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git" width="30"/> Git, <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub, <img src="https://skillicons.dev/icons?i=linux" width="30"/> Linux | ⭐⭐⭐⭐ Proficient |
-
-</div>
-
----
-
-## 🏅 Certifications & Achievements
-
-🎖️ **AWS Cloud Essential** - Amazon Web Services  
-🎖️ **Introduction to AWS CodeGuru** - Amazon Web Services  
-🎖️ **Getting Started With Amazon EKS** - Amazon Web Services  
-🏆 **First Place** - JSPM RSCOE Project Competition  
-🏆 **First Prize** - Poster Presentation Competition  
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/pratik-raundale-953bb61b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/pratikraundale12">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://pratikraundale.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="mailto:pratikraundale12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
----
-
-
-
----
-
-## 🎨 Fun Facts
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
-
-<div align="center">
-  
-  🌱 Currently learning **Advanced Kubernetes & Service Mesh**  
-  ⚡ Fun fact: **I automate everything, even my coffee machine!** ☕  
-  🎯 Goal: **Become a Cloud Architecture Expert**  
-  🚀 Motto: **"Infrastructure as Code, Everything as Code!"**  
-  
-</div>
-
----
-
-
-
----
-
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlign=70&fontAlignY=40&fontColor=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratikraundale12&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/pratikraundale12?style=flat-square&color=blue&label=Followers" />
-</div>
-
-<div align="center">
-  <h3>💭 Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=⭐+Star+some+repositories+if+you+find+them+interesting!;🔗+Let's+connect+and+build+something+amazing+together!;🚀+Always+open+to+collaboration+and+new+opportunities!" alt="Footer Message" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 </div>
