@@ -86,8 +86,8 @@ Cloud and DevOps professional with hands-on experience in designing, implementin
 - 1st Prize in Poster Presentation Competition
 
 ## Technical Blog
-[Exploring Infrastructure as Code with Terraform](https://pratikraundale.netlify.app/blog)  
-[CI/CD Best Practices for Small Teams](https://pratikraundale.netlify.app/blog)
+[Complete Beginner's Guide to DevOps: Node.js, Nginx & Docker Step-by-Step](https://pratikraundaledevops.hashnode.dev/complete-beginners-guide-to-devops-nodejs-nginx-and-docker-step-by-step)  
+[SonarQube: Elevating Code Quality and Security in Modern Development](https://pratikraundaledevops.hashnode.dev/sonarqube-elevating-code-quality-and-security-in-modern-development)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pratik-raundale-953bb61b4/">
