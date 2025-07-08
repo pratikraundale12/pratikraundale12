@@ -12,8 +12,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ```yaml
 apiVersion: v1
 kind: Developer
@@ -42,16 +40,42 @@ spec:
 <div align="center">
 
 ### 🔧 DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,git,github,linux&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" style="animation: float 6s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" style="animation: float 6s ease-in-out infinite 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" style="animation: float 6s ease-in-out infinite 1s;" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" style="animation: float 6s ease-in-out infinite 1.5s;" />
+  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" style="animation: float 6s ease-in-out infinite 2s;" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" style="animation: float 6s ease-in-out infinite 2.5s;" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" style="animation: float 6s ease-in-out infinite 3s;" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" style="animation: float 6s ease-in-out infinite 3.5s;" />
+</p>
 
 ### 💻 Programming & Development
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,bash&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" style="animation: float 6s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" style="animation: float 6s ease-in-out infinite 0.7s;" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" style="animation: float 6s ease-in-out infinite 1.4s;" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" style="animation: float 6s ease-in-out infinite 2.1s;" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" style="animation: float 6s ease-in-out infinite 2.8s;" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="animation: float 6s ease-in-out infinite 3.5s;" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" style="animation: float 6s ease-in-out infinite 4.2s;" />
+</p>
 
 ### 🌐 Cloud Services
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white&labelColor=FF9900" />
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white&labelColor=569A31" />
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white&labelColor=FF9900" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" style="animation: float 6s ease-in-out infinite;" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white&labelColor=FF9900" style="animation: float 6s ease-in-out infinite 1s;" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white&labelColor=569A31" style="animation: float 6s ease-in-out infinite 2s;" />
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white&labelColor=FF9900" style="animation: float 6s ease-in-out infinite 3s;" />
+</p>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+</style>
 
 </div>
 
@@ -101,11 +125,11 @@ Pipeline Features:
 
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
-| **DevOps** | <img src="https://skillicons.dev/icons?i=docker" width="30"/> Docker, <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> Kubernetes, <img src="https://skillicons.dev/icons?i=jenkins" width="30"/> Jenkins | <img src="https://progress-bar.dev/85/?title=Expert&color=36BCF7" /> |
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws" width="30"/> AWS (EC2, S3, EKS, IAM) | <img src="https://progress-bar.dev/80/?title=Advanced&color=FF9900" /> |
-| **Programming** | <img src="https://skillicons.dev/icons?i=cs" width="30"/> C#, <img src="https://skillicons.dev/icons?i=dotnet" width="30"/> .NET, <img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript | <img src="https://progress-bar.dev/75/?title=Proficient&color=239120" /> |
-| **IaC** | <img src="https://skillicons.dev/icons?i=terraform" width="30"/> Terraform, <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> Helm | <img src="https://progress-bar.dev/70/?title=Intermediate&color=623CE4" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git" width="30"/> Git, <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub, <img src="https://skillicons.dev/icons?i=linux" width="30"/> Linux | <img src="https://progress-bar.dev/75/?title=Proficient&color=4E9BCD" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker" width="30"/> Docker, <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> Kubernetes, <img src="https://skillicons.dev/icons?i=jenkins" width="30"/> Jenkins | ⭐⭐⭐⭐⭐ Expert |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws" width="30"/> AWS (EC2, S3, EKS, IAM) | ⭐⭐⭐⭐ Advanced |
+| **Programming** | <img src="https://skillicons.dev/icons?i=cs" width="30"/> C#, <img src="https://skillicons.dev/icons?i=dotnet" width="30"/> .NET, <img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript | ⭐⭐⭐⭐ Proficient |
+| **IaC** | <img src="https://skillicons.dev/icons?i=terraform" width="30"/> Terraform, <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> Helm | ⭐⭐⭐ Intermediate |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git" width="30"/> Git, <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub, <img src="https://skillicons.dev/icons?i=linux" width="30"/> Linux | ⭐⭐⭐⭐ Proficient |
 
 </div>
 
@@ -177,8 +201,6 @@ Pipeline Features:
   <img src="https://komarev.com/ghpvc/?username=pratikraundale12&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/pratikraundale12?style=flat-square&color=blue&label=Followers" />
 </div>
-
----
 
 <div align="center">
   <h3>💭 Random Dev Quote</h3>
