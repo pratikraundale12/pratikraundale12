@@ -84,8 +84,8 @@ Cloud and DevOps professional with hands-on experience in designing, implementin
 
 **Bachelor of Technology in Electronics and Telecommunication**  
 *JSPM's Rajarshi Shahu College of Engineering, Pune* | 2022 - 2025  
-- CGPA: 8.0/10.0
-- Relevant Coursework: Computer Networks, Cloud Computing Fundamentals
+- CGPA: 8.25/10.0
+- Relevant Coursework: Computer Networks, OOPS, Software Management
 
 **Diploma in Electronics and Telecommunication**  
 *Government Polytechnic Washim* | 2019 - 2022  
