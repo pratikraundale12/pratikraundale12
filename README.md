@@ -36,11 +36,26 @@ Cloud and DevOps professional with hands-on experience in designing, implementin
 
 ## Professional Experience
 
-### **Jai Electricals And Contractors** | Remote  
-*Junior Web Developer | Dec 2023 - Feb 2024*  
-- Developed and deployed interactive web platform using modern frontend technologies
-- Optimized page load performance through code optimization and best practices
-- Implemented responsive design principles for cross-device compatibility
+### **Infeon IT Services** | Pune, India  
+*Cloud DevOps Engineer Intern | Jul 2025 – Present*  
+- Deployed and managed web applications using Node.js and Dockerized them for consistent runtime environments  
+- Managed AWS infrastructure including EC2, S3, EKS, and ECS to ensure scalability and high availability  
+- Configured Nginx as a reverse proxy to route traffic to Node.js services, improving request handling and application performance  
+- Implemented Kubernetes for container orchestration with automated scaling, deployment rollouts, and pod recovery  
+
+### **Johannes Gutenberg University Mainz** | Mainz, Germany (Remote)  
+*Cloud DevOps Engineer Intern – Freelancer | Apr 2025 – Jun 2025*  
+- Deployed Java-based healthcare applications using Git, GitHub, and AWS EC2, reducing manual setup time by 40% with automation scripts  
+- Utilized Apache Maven for build automation, increasing build success rate by 25% by resolving dependency issues  
+- Configured Apache Tomcat for smooth application deployment, reducing downtime by 60% via automated server restart and WAR deployment  
+- Integrated Jenkins CI/CD pipeline with GitHub, reducing deployment time from 20 to 8 minutes with automated build, test, and deploy stages  
+
+### **Vistasparks Solutions** | Pune, India (Remote)  
+*Cloud DevOps Engineer Intern | Feb 2025 – Apr 2025*  
+- Developed and containerized a Node.js application using Docker for consistent deployment across environments  
+- Deployed the application on AWS EC2 and configured Nginx as a reverse proxy, improving load handling by 30%  
+- Pushed project code to GitHub using version control best practices, enabling smooth collaboration and faster issue resolution  
+- Implemented production-grade deployment using Kubernetes, ensuring high availability, scalability, and rolling updates  
 
 ## Technical Projects
 
